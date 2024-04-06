@@ -47,15 +47,15 @@ module.exports = {
             ] , 
             // 底部打赏配置 
             "footer" :  { 
-                "donate" :  { 
-                    "button" :  "捐赠" ,  // 打赏按钮 
-                    "avatar" :  "theme_img/头像.jpg",  // 头像地址 
-                    "nickname" :  "北极熊说它怕冷",  // 昵称 
-                    "message" :  "随意打赏，但不要超过一顿早餐钱！",  // 打赏消息文本 
-                    "text" :  "『 赠人玫瑰 🌹 手有余香 』",  // 打赏话语 
-                    "wxpay" :  "theme_img/微信收款码.png",  // 微信收款码 
-                    "alipay" :  "theme_img/支付宝收款码.jpg"  // 支付宝收款码 
-                } , 
+                // "donate" :  { 
+                //     "button" :  "捐赠" ,  // 打赏按钮 
+                //     "avatar" :  "theme_img/头像.jpg",  // 头像地址 
+                //     "nickname" :  "北极熊说它怕冷",  // 昵称 
+                //     "message" :  "随意打赏，但不要超过一顿早餐钱！",  // 打赏消息文本 
+                //     "text" :  "『 赠人玫瑰 🌹 手有余香 』",  // 打赏话语 
+                //     "wxpay" :  "theme_img/微信收款码.png",  // 微信收款码 
+                //     "alipay" :  "theme_img/支付宝收款码.jpg"  // 支付宝收款码 
+                // } , 
                 "copyright" :  true  // 是否显示版权 
             } 
         } 
